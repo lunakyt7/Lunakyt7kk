@@ -14,4 +14,4 @@
   </h1>
     <br>
     <br>
-    <a href="https://discord.gg/Qyp596nU6p" target="_blank">Discord</a></span></h1><div><br></div><h1 style="text-align: center;"><span style="font-family: courier;"><span style="color: white;">by: </span><a href="https://t.me/Kronosdp" target="_blank"><span style="color: #2b00fe;">Lunakyt7</span></a></span></h1>
+    <a href="https://discord.gg/Qyp596nU6p" target="_blank">Discord</a></span></h1><div><br></div><h1 style="text-align: center;"><span style="font-family: courier;"><span style="color: white;">by: </span><a href="https://t.me/lunakyt7kkj" target="_blank"><span style="color: #2b00fe;">Lunakyt7</span></a></span></h1>
